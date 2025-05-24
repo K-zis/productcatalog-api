@@ -73,7 +73,7 @@ The goal of the project is to showcase backend development skills with modern .N
 
 ## 🏁 Why This Project?
 
-This project was designed to align with the expectations of a junior backend consultant at Deloitte:
+This project was designed to align with the expectations of a junior backend dev:
 
 - ✅ Demonstrates use of Microsoft stack (Azure, C#, SQL)
 - ✅ Reflects modern cloud-oriented backend development
