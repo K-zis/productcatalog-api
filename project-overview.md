@@ -49,7 +49,7 @@ The goal of the project is to showcase backend development skills with modern .N
 
 1. Clone the repo  
 2. Run `dotnet run`  
-3. Open browser: `https://localhost:5001/swagger`
+3. Open browser: `https://localhost:5035/swagger`
 
 ---
 
