@@ -156,3 +156,6 @@ C:\Users\zisio\ProductCatalog\ProductCatalogApi\obj\Debug\net8.0\refint\ProductC
 C:\Users\zisio\ProductCatalog\ProductCatalogApi\obj\Debug\net8.0\ProductCatalogApi.pdb
 C:\Users\zisio\ProductCatalog\ProductCatalogApi\obj\Debug\net8.0\ProductCatalogApi.genruntimeconfig.cache
 C:\Users\zisio\ProductCatalog\ProductCatalogApi\obj\Debug\net8.0\ref\ProductCatalogApi.dll
+C:\Users\zisio\ProductCatalog\ProductCatalogApi\bin\Debug\net8.0\Dapper.dll
+C:\Users\zisio\ProductCatalog\ProductCatalogApi\bin\Debug\net8.0\MiniValidation.dll
+C:\Users\zisio\ProductCatalog\ProductCatalogApi\obj\Debug\net8.0\ProductCatalogApi.sourcelink.json
