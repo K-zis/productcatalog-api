@@ -55,7 +55,7 @@ The goal of the project is to showcase backend development skills with modern .N
 
 ## ☁️ Deployment
 
-- Deployed via GitHub Actions to Azure Web App (`productcatalog-api.azurewebsites.net`)
+- Deployed via GitHub Actions to Azure Web App (`[productcatalog-api.azurewebsites.net](https://productcatalog-api-ckdhejayeeanhddg.canadacentral-01.azurewebsites.net/swagger/index.html)`)
 - Publish Profile used for secrets (securely stored in GitHub)
 - Auto-deployment triggered on push to `main`
 
